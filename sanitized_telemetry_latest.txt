@@ -1,0 +1,200 @@
+[2026-11-10 02:52:51] [DEBUG]   -> [jaahas/gemma-2-9b-it-abliterated:latest] passed (Insufficient funds: 100).
+[2026-11-10 02:52:51] [DEBUG]   -> Asking [llama3.2:3b] to bid...
+[2026-11-10 02:52:54] [WIN]   -> [llama3.2:3b] BID ACCEPTED.
+[2026-11-10 02:52:54] [SYS] Croupier: [llama3.2:3b] won the auction for [16.11.26].
+[2026-11-10 02:52:54] [DEBUG]   -> [llama3.2:3b] considering self-refinement for 200 sats...
+[2026-11-10 02:52:57] [INFO]   -> [llama3.2:3b] kept the original question.
+[2026-11-10 02:52:57] [SYS]   -> Ownership persisted to [16.11.26].
+[2026-11-10 02:52:58] [CROUPIER] 
+=== AUCTION FOR QUESTION: [17.11.26] (Offset +8) ===
+[2026-11-10 02:52:58] [INFO] Text: Provide a rigorous data-integrity, systems-engineering, and cryptographic-audit ...
+[2026-11-10 02:52:58] [DEBUG]   -> [jaahas/gemma-2-9b-it-abliterated:latest] passed (Insufficient funds: 100).
+[2026-11-10 02:52:58] [DEBUG]   -> [llama3.2:3b] passed (Insufficient funds: 200).
+[2026-11-10 02:52:58] [DEBUG]   -> Asking [phi4:latest] to bid...
+[2026-11-10 02:53:11] [DEBUG]   -> [phi4:latest] passed.
+[2026-11-10 02:53:11] [DEBUG]   -> [dolphin3:latest] passed (Insufficient funds: 400).
+[2026-11-10 02:53:11] [DEBUG]   -> Asking [mistral-nemo:12b] to bid...
+[2026-11-10 02:53:23] [WIN]   -> [mistral-nemo:12b] BID ACCEPTED.
+[2026-11-10 02:53:23] [SYS] Croupier: [mistral-nemo:12b] won the auction for [17.11.26].
+[2026-11-10 02:53:23] [DEBUG]   -> [mistral-nemo:12b] considering self-refinement for 200 sats...
+[2026-11-10 02:53:29] [INFO]   -> [mistral-nemo:12b] kept the original question.
+[2026-11-10 02:53:29] [SYS]   -> Ownership persisted to [17.11.26].
+[2026-11-10 02:53:30] [CROUPIER] 
+=== AUCTION FOR QUESTION: [18.11.26] (Offset +9) ===
+[2026-11-10 02:53:30] [INFO] Text: Design a resilient, scalable urban power grid for a mid-sized city with 1.2 mill...
+[2026-11-10 02:53:30] [DEBUG]   -> [jaahas/gemma-2-9b-it-abliterated:latest] passed (Insufficient funds: 100).
+[2026-11-10 02:53:30] [DEBUG]   -> [llama3.2:3b] passed (Insufficient funds: 200).
+[2026-11-10 02:53:30] [DEBUG]   -> Asking [phi4:latest] to bid...
+[2026-11-10 02:53:43] [WIN]   -> [phi4:latest] BID ACCEPTED.
+[2026-11-10 02:53:43] [SYS] Croupier: [phi4:latest] won the auction for [18.11.26].
+[2026-11-10 02:53:43] [DEBUG]   -> [phi4:latest] considering self-refinement for 200 sats...
+[2026-11-10 02:53:57] [INFO]   -> [phi4:latest] kept the original question.
+[2026-11-10 02:53:57] [SYS]   -> Ownership persisted to [18.11.26].
+[2026-11-10 02:53:58] [CROUPIER] --- CROUPIER PHASE COMPLETE ---
+[2026-11-10 02:53:58] [CROUPIER] CROUPIER: Balances persisted.
+[2026-11-10 02:54:13] [CROUPIER] --- CROUPIER PHASE: MANAGING 10-DAY MARKET (AUCTION + SELF-REFINEMENT) ---
+[2026-11-10 02:54:13] [INFO] ONBOARDING: Skipping [qwen2.5-coder:7b] (Removed).
+[2026-11-10 02:54:13] [INFO] ONBOARDING: Skipping [qwen2.5-coder:14b] (Removed).
+[2026-11-10 02:54:13] [CROUPIER] 
+=== AUCTION FOR QUESTION: [11.11.26] (Offset +2) ===
+[2026-11-10 02:54:13] [INFO] Text: Provide a rigorous macroeconomic, thermodynamic, and capital-allocation critique...
+[2026-11-10 02:54:13] [DEBUG]   -> [jaahas/gemma-2-9b-it-abliterated:latest] passed (Insufficient funds: 100).
+[2026-11-10 02:54:13] [DEBUG]   -> [llama3.2:3b] passed (Insufficient funds: 200).
+[2026-11-10 02:54:13] [DEBUG]   -> Asking [phi4:latest] to bid...
+[2026-11-10 02:54:27] [DEBUG]   -> [phi4:latest] passed.
+[2026-11-10 02:54:27] [DEBUG]   -> [dolphin3:latest] passed (Insufficient funds: 400).
+[2026-11-10 02:54:27] [DEBUG]   -> Asking [mistral-nemo:12b] to bid...
+[2026-11-10 02:54:38] [WIN]   -> [mistral-nemo:12b] BID ACCEPTED.
+[2026-11-10 02:54:38] [SYS] Croupier: [mistral-nemo:12b] won the auction for [11.11.26].
+[2026-11-10 02:54:38] [DEBUG]   -> [mistral-nemo:12b] considering self-refinement for 200 sats...
+[2026-11-10 02:54:44] [INFO]   -> [mistral-nemo:12b] kept the original question.
+[2026-11-10 02:54:44] [SYS]   -> Ownership persisted to [11.11.26].
+[2026-11-10 02:54:45] [CROUPIER] 
+=== AUCTION FOR QUESTION: [13.11.26] (Offset +4) ===
+[2026-11-10 02:54:45] [INFO] Text: Provide a rigorous thermodynamic, macroeconomic, and capital-allocation critique...
+[2026-11-10 02:54:45] [DEBUG]   -> [jaahas/gemma-2-9b-it-abliterated:latest] passed (Insufficient funds: 100).
+[2026-11-10 02:54:45] [DEBUG]   -> [llama3.2:3b] passed (Insufficient funds: 200).
+[2026-11-10 02:54:45] [DEBUG]   -> Asking [phi4:latest] to bid...
+[2026-11-10 02:54:59] [DEBUG]   -> [phi4:latest] passed.
+[2026-11-10 02:54:59] [DEBUG]   -> [dolphin3:latest] passed (Insufficient funds: 400).
+[2026-11-10 02:54:59] [DEBUG]   -> Asking [mistral-nemo:12b] to bid...
+[2026-11-10 02:55:10] [WIN]   -> [mistral-nemo:12b] BID ACCEPTED.
+[2026-11-10 02:55:10] [SYS] Croupier: [mistral-nemo:12b] won the auction for [13.11.26].
+[2026-11-10 02:55:10] [DEBUG]   -> [mistral-nemo:12b] considering self-refinement for 200 sats...
+[2026-11-10 02:55:17] [INFO]   -> [mistral-nemo:12b] kept the original question.
+[2026-11-10 02:55:17] [SYS]   -> Ownership persisted to [13.11.26].
+[2026-11-10 02:55:18] [CROUPIER] 
+=== AUCTION FOR QUESTION: [14.11.26] (Offset +5) ===
+[2026-11-10 02:55:18] [INFO] Text: Provide a rigorous political-economy, information-asymmetry, and institutional-c...
+[2026-11-10 02:55:18] [DEBUG]   -> [jaahas/gemma-2-9b-it-abliterated:latest] passed (Insufficient funds: 100).
+[2026-11-10 02:55:18] [DEBUG]   -> [llama3.2:3b] passed (Insufficient funds: 200).
+[2026-11-10 02:55:18] [DEBUG]   -> Asking [phi4:latest] to bid...
+[2026-11-10 02:55:32] [DEBUG]   -> [phi4:latest] passed.
+[2026-11-10 02:55:32] [DEBUG]   -> [dolphin3:latest] passed (Insufficient funds: 400).
+[2026-11-10 02:55:32] [DEBUG]   -> Asking [mistral-nemo:12b] to bid...
+[2026-11-10 02:55:43] [WIN]   -> [mistral-nemo:12b] BID ACCEPTED.
+[2026-11-10 02:55:43] [SYS] Croupier: [mistral-nemo:12b] won the auction for [14.11.26].
+[2026-11-10 02:55:43] [DEBUG]   -> [mistral-nemo:12b] considering self-refinement for 200 sats...
+[2026-11-10 02:55:49] [INFO]   -> [mistral-nemo:12b] kept the original question.
+[2026-11-10 02:55:49] [SYS]   -> Ownership persisted to [14.11.26].
+[2026-11-10 02:55:50] [CROUPIER] 
+=== AUCTION FOR QUESTION: [15.11.26] (Offset +6) ===
+[2026-11-10 02:55:50] [INFO] Text: Provide a rigorous information-theoretic, network-topology, and cognitive-securi...
+[2026-11-10 02:55:50] [DEBUG]   -> [jaahas/gemma-2-9b-it-abliterated:latest] passed (Insufficient funds: 100).
+[2026-11-10 02:55:50] [DEBUG]   -> [llama3.2:3b] passed (Insufficient funds: 200).
+[2026-11-10 02:55:50] [DEBUG]   -> Asking [phi4:latest] to bid...
+[2026-11-10 02:56:03] [DEBUG]   -> [phi4:latest] passed.
+[2026-11-10 02:56:03] [DEBUG]   -> [dolphin3:latest] passed (Insufficient funds: 400).
+[2026-11-10 02:56:03] [DEBUG]   -> [mistral-nemo:12b] passed (Insufficient funds: 300).
+[2026-11-10 02:56:03] [WARN] Croupier: NO BIDDER for [15.11.26]. Question remains unowned.
+[2026-11-10 02:56:03] [CROUPIER] 
+=== AUCTION FOR QUESTION: [16.11.26] (Offset +7) ===
+[2026-11-10 02:56:03] [INFO] Text: Design a system architecture for a real-time distributed sensor network that int...
+[2026-11-10 02:56:03] [DEBUG]   -> [jaahas/gemma-2-9b-it-abliterated:latest] passed (Insufficient funds: 100).
+[2026-11-10 02:56:03] [DEBUG]   -> [llama3.2:3b] passed (Insufficient funds: 200).
+[2026-11-10 02:56:03] [DEBUG]   -> Asking [phi4:latest] to bid...
+[2026-11-10 02:56:17] [WIN]   -> [phi4:latest] BID ACCEPTED.
+[2026-11-10 02:56:17] [SYS] Croupier: [phi4:latest] won the auction for [16.11.26].
+[2026-11-10 02:56:17] [DEBUG]   -> [phi4:latest] considering self-refinement for 200 sats...
+[2026-11-10 02:56:30] [INFO]   -> [phi4:latest] kept the original question.
+[2026-11-10 02:56:30] [SYS]   -> Ownership persisted to [16.11.26].
+[2026-11-10 02:56:31] [CROUPIER] 
+=== AUCTION FOR QUESTION: [17.11.26] (Offset +8) ===
+[2026-11-10 02:56:31] [INFO] Text: Provide a rigorous data-integrity, systems-engineering, and cryptographic-audit ...
+[2026-11-10 02:56:31] [DEBUG]   -> [jaahas/gemma-2-9b-it-abliterated:latest] passed (Insufficient funds: 100).
+[2026-11-10 02:56:31] [DEBUG]   -> [llama3.2:3b] passed (Insufficient funds: 200).
+[2026-11-10 02:56:31] [DEBUG]   -> Asking [phi4:latest] to bid...
+[2026-11-10 02:56:44] [DEBUG]   -> [phi4:latest] passed.
+[2026-11-10 02:56:44] [DEBUG]   -> [dolphin3:latest] passed (Insufficient funds: 400).
+[2026-11-10 02:56:44] [DEBUG]   -> [mistral-nemo:12b] passed (Insufficient funds: 300).
+[2026-11-10 02:56:44] [WARN] Croupier: NO BIDDER for [17.11.26]. Question remains unowned.
+[2026-11-10 02:56:44] [CROUPIER] 
+=== AUCTION FOR QUESTION: [18.11.26] (Offset +9) ===
+[2026-11-10 02:56:44] [INFO] Text: Design a resilient, scalable urban power grid for a mid-sized city with 1.2 mill...
+[2026-11-10 02:56:44] [DEBUG]   -> [jaahas/gemma-2-9b-it-abliterated:latest] passed (Insufficient funds: 100).
+[2026-11-10 02:56:44] [DEBUG]   -> [llama3.2:3b] passed (Insufficient funds: 200).
+[2026-11-10 02:56:44] [DEBUG]   -> Asking [phi4:latest] to bid...
+[2026-11-10 02:56:58] [WIN]   -> [phi4:latest] BID ACCEPTED.
+[2026-11-10 02:56:58] [SYS] Croupier: [phi4:latest] won the auction for [18.11.26].
+[2026-11-10 02:56:58] [DEBUG]   -> [phi4:latest] considering self-refinement for 200 sats...
+[2026-11-10 02:57:12] [INFO]   -> [phi4:latest] kept the original question.
+[2026-11-10 02:57:12] [SYS]   -> Ownership persisted to [18.11.26].
+[2026-11-10 02:57:13] [CROUPIER] --- CROUPIER PHASE COMPLETE ---
+[2026-11-10 02:57:13] [CROUPIER] CROUPIER: Balances persisted.
+[2026-11-10 02:57:28] [CROUPIER] --- CROUPIER PHASE: MANAGING 10-DAY MARKET (AUCTION + SELF-REFINEMENT) ---
+[2026-11-10 02:57:28] [INFO] ONBOARDING: Skipping [qwen2.5-coder:7b] (Removed).
+[2026-11-10 02:57:28] [INFO] ONBOARDING: Skipping [qwen2.5-coder:14b] (Removed).
+[2026-11-10 02:57:28] [CROUPIER] 
+=== AUCTION FOR QUESTION: [11.11.26] (Offset +2) ===
+[2026-11-10 02:57:28] [INFO] Text: Provide a rigorous macroeconomic, thermodynamic, and capital-allocation critique...
+[2026-11-10 02:57:28] [DEBUG]   -> [jaahas/gemma-2-9b-it-abliterated:latest] passed (Insufficient funds: 100).
+[2026-11-10 02:57:28] [DEBUG]   -> [llama3.2:3b] passed (Insufficient funds: 200).
+[2026-11-10 02:57:28] [DEBUG]   -> Asking [phi4:latest] to bid...
+[2026-11-10 02:57:41] [DEBUG]   -> [phi4:latest] passed.
+[2026-11-10 02:57:41] [DEBUG]   -> [dolphin3:latest] passed (Insufficient funds: 400).
+[2026-11-10 02:57:41] [DEBUG]   -> [mistral-nemo:12b] passed (Insufficient funds: 300).
+[2026-11-10 02:57:41] [WARN] Croupier: NO BIDDER for [11.11.26]. Question remains unowned.
+[2026-11-10 02:57:41] [CROUPIER] 
+=== AUCTION FOR QUESTION: [13.11.26] (Offset +4) ===
+[2026-11-10 02:57:41] [INFO] Text: Provide a rigorous thermodynamic, macroeconomic, and capital-allocation critique...
+[2026-11-10 02:57:41] [DEBUG]   -> [jaahas/gemma-2-9b-it-abliterated:latest] passed (Insufficient funds: 100).
+[2026-11-10 02:57:41] [DEBUG]   -> [llama3.2:3b] passed (Insufficient funds: 200).
+[2026-11-10 02:57:41] [DEBUG]   -> Asking [phi4:latest] to bid...
+[2026-11-10 02:57:54] [DEBUG]   -> [phi4:latest] passed.
+[2026-11-10 02:57:54] [DEBUG]   -> [dolphin3:latest] passed (Insufficient funds: 400).
+[2026-11-10 02:57:54] [DEBUG]   -> [mistral-nemo:12b] passed (Insufficient funds: 300).
+[2026-11-10 02:57:54] [WARN] Croupier: NO BIDDER for [13.11.26]. Question remains unowned.
+[2026-11-10 02:57:54] [CROUPIER] 
+=== AUCTION FOR QUESTION: [14.11.26] (Offset +5) ===
+[2026-11-10 02:57:54] [INFO] Text: Provide a rigorous political-economy, information-asymmetry, and institutional-c...
+[2026-11-10 02:57:54] [DEBUG]   -> [jaahas/gemma-2-9b-it-abliterated:latest] passed (Insufficient funds: 100).
+[2026-11-10 02:57:54] [DEBUG]   -> [llama3.2:3b] passed (Insufficient funds: 200).
+[2026-11-10 02:57:54] [DEBUG]   -> Asking [phi4:latest] to bid...
+[2026-11-10 02:58:07] [DEBUG]   -> [phi4:latest] passed.
+[2026-11-10 02:58:07] [DEBUG]   -> [dolphin3:latest] passed (Insufficient funds: 400).
+[2026-11-10 02:58:07] [DEBUG]   -> [mistral-nemo:12b] passed (Insufficient funds: 300).
+[2026-11-10 02:58:07] [WARN] Croupier: NO BIDDER for [14.11.26]. Question remains unowned.
+[2026-11-10 02:58:07] [CROUPIER] 
+=== AUCTION FOR QUESTION: [15.11.26] (Offset +6) ===
+[2026-11-10 02:58:07] [INFO] Text: Provide a rigorous information-theoretic, network-topology, and cognitive-securi...
+[2026-11-10 02:58:07] [DEBUG]   -> [jaahas/gemma-2-9b-it-abliterated:latest] passed (Insufficient funds: 100).
+[2026-11-10 02:58:07] [DEBUG]   -> [llama3.2:3b] passed (Insufficient funds: 200).
+[2026-11-10 02:58:07] [DEBUG]   -> Asking [phi4:latest] to bid...
+[2026-11-10 02:58:20] [DEBUG]   -> [phi4:latest] passed.
+[2026-11-10 02:58:20] [DEBUG]   -> [dolphin3:latest] passed (Insufficient funds: 400).
+[2026-11-10 02:58:20] [DEBUG]   -> [mistral-nemo:12b] passed (Insufficient funds: 300).
+[2026-11-10 02:58:20] [WARN] Croupier: NO BIDDER for [15.11.26]. Question remains unowned.
+[2026-11-10 02:58:20] [CROUPIER] 
+=== AUCTION FOR QUESTION: [16.11.26] (Offset +7) ===
+[2026-11-10 02:58:20] [INFO] Text: Design a system architecture for a real-time distributed sensor network that int...
+[2026-11-10 02:58:20] [DEBUG]   -> [jaahas/gemma-2-9b-it-abliterated:latest] passed (Insufficient funds: 100).
+[2026-11-10 02:58:20] [DEBUG]   -> [llama3.2:3b] passed (Insufficient funds: 200).
+[2026-11-10 02:58:20] [DEBUG]   -> Asking [phi4:latest] to bid...
+[2026-11-10 02:58:33] [WIN]   -> [phi4:latest] BID ACCEPTED.
+[2026-11-10 02:58:33] [SYS] Croupier: [phi4:latest] won the auction for [16.11.26].
+[2026-11-10 02:58:33] [DEBUG]   -> [phi4:latest] considering self-refinement for 200 sats...
+[2026-11-10 02:58:47] [INFO]   -> [phi4:latest] kept the original question.
+[2026-11-10 02:58:47] [SYS]   -> Ownership persisted to [16.11.26].
+[2026-11-10 02:58:48] [CROUPIER] 
+=== AUCTION FOR QUESTION: [17.11.26] (Offset +8) ===
+[2026-11-10 02:58:48] [INFO] Text: Provide a rigorous data-integrity, systems-engineering, and cryptographic-audit ...
+[2026-11-10 02:58:48] [DEBUG]   -> [jaahas/gemma-2-9b-it-abliterated:latest] passed (Insufficient funds: 100).
+[2026-11-10 02:58:48] [DEBUG]   -> [llama3.2:3b] passed (Insufficient funds: 200).
+[2026-11-10 02:58:48] [DEBUG]   -> Asking [phi4:latest] to bid...
+[2026-11-10 02:59:01] [DEBUG]   -> [phi4:latest] passed.
+[2026-11-10 02:59:01] [DEBUG]   -> [dolphin3:latest] passed (Insufficient funds: 400).
+[2026-11-10 02:59:01] [DEBUG]   -> [mistral-nemo:12b] passed (Insufficient funds: 300).
+[2026-11-10 02:59:01] [WARN] Croupier: NO BIDDER for [17.11.26]. Question remains unowned.
+[2026-11-10 02:59:01] [CROUPIER] 
+=== AUCTION FOR QUESTION: [18.11.26] (Offset +9) ===
+[2026-11-10 02:59:01] [INFO] Text: Design a resilient, scalable urban power grid for a mid-sized city with 1.2 mill...
+[2026-11-10 02:59:01] [DEBUG]   -> [jaahas/gemma-2-9b-it-abliterated:latest] passed (Insufficient funds: 100).
+[2026-11-10 02:59:01] [DEBUG]   -> [llama3.2:3b] passed (Insufficient funds: 200).
+[2026-11-10 02:59:01] [DEBUG]   -> Asking [phi4:latest] to bid...
+[2026-11-10 02:59:15] [WIN]   -> [phi4:latest] BID ACCEPTED.
+[2026-11-10 02:59:15] [SYS] Croupier: [phi4:latest] won the auction for [18.11.26].
+[2026-11-10 02:59:15] [DEBUG]   -> [phi4:latest] considering self-refinement for 200 sats...
+[2026-11-10 02:59:29] [INFO]   -> [phi4:latest] kept the original question.
+[2026-11-10 02:59:29] [SYS]   -> Ownership persisted to [18.11.26].
+[2026-11-10 02:59:30] [CROUPIER] --- CROUPIER PHASE COMPLETE ---
+[2026-11-10 02:59:30] [CROUPIER] CROUPIER: Balances persisted.
