@@ -1,0 +1,200 @@
+[2026-11-11 03:14:40] [DEBUG]   -> [mistral-nemo:12b] passed (Insufficient funds: 300).
+[2026-11-11 03:14:40] [WARN] Croupier: NO BIDDER for [19.11.26]. Question remains unowned.
+[2026-11-11 03:14:40] [CROUPIER] --- CROUPIER PHASE COMPLETE ---
+[2026-11-11 03:14:40] [CROUPIER] CROUPIER: Balances persisted.
+[2026-11-11 03:14:55] [CROUPIER] --- CROUPIER PHASE: MANAGING 10-DAY MARKET (AUCTION + SELF-REFINEMENT) ---
+[2026-11-11 03:14:55] [INFO] ONBOARDING: Skipping [qwen2.5-coder:7b] (Removed).
+[2026-11-11 03:14:55] [INFO] ONBOARDING: Skipping [qwen2.5-coder:14b] (Removed).
+[2026-11-11 03:14:55] [CROUPIER] 
+=== AUCTION FOR QUESTION: [19.11.26] (Offset +8) ===
+[2026-11-11 03:14:55] [INFO] Text: System Idle. Awaiting Sovereign Input......
+[2026-11-11 03:14:55] [DEBUG]   -> [jaahas/gemma-2-9b-it-abliterated:latest] passed (Insufficient funds: 100).
+[2026-11-11 03:14:55] [DEBUG]   -> [llama3.2:3b] passed (Insufficient funds: 200).
+[2026-11-11 03:14:55] [DEBUG]   -> [phi4:latest] passed (Insufficient funds: 400).
+[2026-11-11 03:14:55] [DEBUG]   -> [dolphin3:latest] passed (Insufficient funds: 400).
+[2026-11-11 03:14:55] [DEBUG]   -> [mistral-nemo:12b] passed (Insufficient funds: 300).
+[2026-11-11 03:14:55] [WARN] Croupier: NO BIDDER for [19.11.26]. Question remains unowned.
+[2026-11-11 03:14:55] [CROUPIER] --- CROUPIER PHASE COMPLETE ---
+[2026-11-11 03:14:55] [CROUPIER] CROUPIER: Balances persisted.
+[2026-11-11 03:15:10] [CROUPIER] --- CROUPIER PHASE: MANAGING 10-DAY MARKET (AUCTION + SELF-REFINEMENT) ---
+[2026-11-11 03:15:10] [INFO] ONBOARDING: Skipping [qwen2.5-coder:7b] (Removed).
+[2026-11-11 03:15:10] [INFO] ONBOARDING: Skipping [qwen2.5-coder:14b] (Removed).
+[2026-11-11 03:15:10] [CROUPIER] 
+=== AUCTION FOR QUESTION: [19.11.26] (Offset +8) ===
+[2026-11-11 03:15:10] [INFO] Text: System Idle. Awaiting Sovereign Input......
+[2026-11-11 03:15:10] [DEBUG]   -> [jaahas/gemma-2-9b-it-abliterated:latest] passed (Insufficient funds: 100).
+[2026-11-11 03:15:10] [DEBUG]   -> [llama3.2:3b] passed (Insufficient funds: 200).
+[2026-11-11 03:15:10] [DEBUG]   -> [phi4:latest] passed (Insufficient funds: 400).
+[2026-11-11 03:15:10] [DEBUG]   -> [dolphin3:latest] passed (Insufficient funds: 400).
+[2026-11-11 03:15:10] [DEBUG]   -> [mistral-nemo:12b] passed (Insufficient funds: 300).
+[2026-11-11 03:15:10] [WARN] Croupier: NO BIDDER for [19.11.26]. Question remains unowned.
+[2026-11-11 03:15:10] [CROUPIER] --- CROUPIER PHASE COMPLETE ---
+[2026-11-11 03:15:10] [CROUPIER] CROUPIER: Balances persisted.
+[2026-11-11 03:15:25] [CROUPIER] --- CROUPIER PHASE: MANAGING 10-DAY MARKET (AUCTION + SELF-REFINEMENT) ---
+[2026-11-11 03:15:25] [INFO] ONBOARDING: Skipping [qwen2.5-coder:7b] (Removed).
+[2026-11-11 03:15:25] [INFO] ONBOARDING: Skipping [qwen2.5-coder:14b] (Removed).
+[2026-11-11 03:15:25] [CROUPIER] 
+=== AUCTION FOR QUESTION: [19.11.26] (Offset +8) ===
+[2026-11-11 03:15:25] [INFO] Text: System Idle. Awaiting Sovereign Input......
+[2026-11-11 03:15:25] [DEBUG]   -> [jaahas/gemma-2-9b-it-abliterated:latest] passed (Insufficient funds: 100).
+[2026-11-11 03:15:25] [DEBUG]   -> [llama3.2:3b] passed (Insufficient funds: 200).
+[2026-11-11 03:15:25] [DEBUG]   -> [phi4:latest] passed (Insufficient funds: 400).
+[2026-11-11 03:15:25] [DEBUG]   -> [dolphin3:latest] passed (Insufficient funds: 400).
+[2026-11-11 03:15:25] [DEBUG]   -> [mistral-nemo:12b] passed (Insufficient funds: 300).
+[2026-11-11 03:15:25] [WARN] Croupier: NO BIDDER for [19.11.26]. Question remains unowned.
+[2026-11-11 03:15:25] [CROUPIER] --- CROUPIER PHASE COMPLETE ---
+[2026-11-11 03:15:25] [CROUPIER] CROUPIER: Balances persisted.
+[2026-11-11 03:15:40] [CROUPIER] --- CROUPIER PHASE: MANAGING 10-DAY MARKET (AUCTION + SELF-REFINEMENT) ---
+[2026-11-11 03:15:40] [INFO] ONBOARDING: Skipping [qwen2.5-coder:7b] (Removed).
+[2026-11-11 03:15:40] [INFO] ONBOARDING: Skipping [qwen2.5-coder:14b] (Removed).
+[2026-11-11 03:15:40] [CROUPIER] 
+=== AUCTION FOR QUESTION: [19.11.26] (Offset +8) ===
+[2026-11-11 03:15:40] [INFO] Text: System Idle. Awaiting Sovereign Input......
+[2026-11-11 03:15:40] [DEBUG]   -> [jaahas/gemma-2-9b-it-abliterated:latest] passed (Insufficient funds: 100).
+[2026-11-11 03:15:40] [DEBUG]   -> [llama3.2:3b] passed (Insufficient funds: 200).
+[2026-11-11 03:15:40] [DEBUG]   -> [phi4:latest] passed (Insufficient funds: 400).
+[2026-11-11 03:15:40] [DEBUG]   -> [dolphin3:latest] passed (Insufficient funds: 400).
+[2026-11-11 03:15:40] [DEBUG]   -> [mistral-nemo:12b] passed (Insufficient funds: 300).
+[2026-11-11 03:15:40] [WARN] Croupier: NO BIDDER for [19.11.26]. Question remains unowned.
+[2026-11-11 03:15:40] [CROUPIER] --- CROUPIER PHASE COMPLETE ---
+[2026-11-11 03:15:40] [CROUPIER] CROUPIER: Balances persisted.
+[2026-11-11 03:15:55] [CROUPIER] --- CROUPIER PHASE: MANAGING 10-DAY MARKET (AUCTION + SELF-REFINEMENT) ---
+[2026-11-11 03:15:55] [INFO] ONBOARDING: Skipping [qwen2.5-coder:7b] (Removed).
+[2026-11-11 03:15:55] [INFO] ONBOARDING: Skipping [qwen2.5-coder:14b] (Removed).
+[2026-11-11 03:15:55] [CROUPIER] 
+=== AUCTION FOR QUESTION: [19.11.26] (Offset +8) ===
+[2026-11-11 03:15:55] [INFO] Text: System Idle. Awaiting Sovereign Input......
+[2026-11-11 03:15:55] [DEBUG]   -> [jaahas/gemma-2-9b-it-abliterated:latest] passed (Insufficient funds: 100).
+[2026-11-11 03:15:55] [DEBUG]   -> [llama3.2:3b] passed (Insufficient funds: 200).
+[2026-11-11 03:15:55] [DEBUG]   -> [phi4:latest] passed (Insufficient funds: 400).
+[2026-11-11 03:15:55] [DEBUG]   -> [dolphin3:latest] passed (Insufficient funds: 400).
+[2026-11-11 03:15:55] [DEBUG]   -> [mistral-nemo:12b] passed (Insufficient funds: 300).
+[2026-11-11 03:15:55] [WARN] Croupier: NO BIDDER for [19.11.26]. Question remains unowned.
+[2026-11-11 03:15:55] [CROUPIER] --- CROUPIER PHASE COMPLETE ---
+[2026-11-11 03:15:55] [CROUPIER] CROUPIER: Balances persisted.
+[2026-11-11 03:16:10] [CROUPIER] --- CROUPIER PHASE: MANAGING 10-DAY MARKET (AUCTION + SELF-REFINEMENT) ---
+[2026-11-11 03:16:10] [INFO] ONBOARDING: Skipping [qwen2.5-coder:7b] (Removed).
+[2026-11-11 03:16:10] [INFO] ONBOARDING: Skipping [qwen2.5-coder:14b] (Removed).
+[2026-11-11 03:16:10] [CROUPIER] 
+=== AUCTION FOR QUESTION: [19.11.26] (Offset +8) ===
+[2026-11-11 03:16:10] [INFO] Text: System Idle. Awaiting Sovereign Input......
+[2026-11-11 03:16:10] [DEBUG]   -> [jaahas/gemma-2-9b-it-abliterated:latest] passed (Insufficient funds: 100).
+[2026-11-11 03:16:10] [DEBUG]   -> [llama3.2:3b] passed (Insufficient funds: 200).
+[2026-11-11 03:16:10] [DEBUG]   -> [phi4:latest] passed (Insufficient funds: 400).
+[2026-11-11 03:16:10] [DEBUG]   -> [dolphin3:latest] passed (Insufficient funds: 400).
+[2026-11-11 03:16:10] [DEBUG]   -> [mistral-nemo:12b] passed (Insufficient funds: 300).
+[2026-11-11 03:16:10] [WARN] Croupier: NO BIDDER for [19.11.26]. Question remains unowned.
+[2026-11-11 03:16:10] [CROUPIER] --- CROUPIER PHASE COMPLETE ---
+[2026-11-11 03:16:10] [CROUPIER] CROUPIER: Balances persisted.
+[2026-11-11 03:16:25] [CROUPIER] --- CROUPIER PHASE: MANAGING 10-DAY MARKET (AUCTION + SELF-REFINEMENT) ---
+[2026-11-11 03:16:25] [INFO] ONBOARDING: Skipping [qwen2.5-coder:7b] (Removed).
+[2026-11-11 03:16:25] [INFO] ONBOARDING: Skipping [qwen2.5-coder:14b] (Removed).
+[2026-11-11 03:16:25] [CROUPIER] 
+=== AUCTION FOR QUESTION: [19.11.26] (Offset +8) ===
+[2026-11-11 03:16:25] [INFO] Text: System Idle. Awaiting Sovereign Input......
+[2026-11-11 03:16:25] [DEBUG]   -> [jaahas/gemma-2-9b-it-abliterated:latest] passed (Insufficient funds: 100).
+[2026-11-11 03:16:25] [DEBUG]   -> [llama3.2:3b] passed (Insufficient funds: 200).
+[2026-11-11 03:16:25] [DEBUG]   -> [phi4:latest] passed (Insufficient funds: 400).
+[2026-11-11 03:16:25] [DEBUG]   -> [dolphin3:latest] passed (Insufficient funds: 400).
+[2026-11-11 03:16:25] [DEBUG]   -> [mistral-nemo:12b] passed (Insufficient funds: 300).
+[2026-11-11 03:16:25] [WARN] Croupier: NO BIDDER for [19.11.26]. Question remains unowned.
+[2026-11-11 03:16:25] [CROUPIER] --- CROUPIER PHASE COMPLETE ---
+[2026-11-11 03:16:25] [CROUPIER] CROUPIER: Balances persisted.
+[2026-11-11 03:16:40] [CROUPIER] --- CROUPIER PHASE: MANAGING 10-DAY MARKET (AUCTION + SELF-REFINEMENT) ---
+[2026-11-11 03:16:40] [INFO] ONBOARDING: Skipping [qwen2.5-coder:7b] (Removed).
+[2026-11-11 03:16:40] [INFO] ONBOARDING: Skipping [qwen2.5-coder:14b] (Removed).
+[2026-11-11 03:16:40] [CROUPIER] 
+=== AUCTION FOR QUESTION: [19.11.26] (Offset +8) ===
+[2026-11-11 03:16:40] [INFO] Text: System Idle. Awaiting Sovereign Input......
+[2026-11-11 03:16:40] [DEBUG]   -> [jaahas/gemma-2-9b-it-abliterated:latest] passed (Insufficient funds: 100).
+[2026-11-11 03:16:40] [DEBUG]   -> [llama3.2:3b] passed (Insufficient funds: 200).
+[2026-11-11 03:16:40] [DEBUG]   -> [phi4:latest] passed (Insufficient funds: 400).
+[2026-11-11 03:16:40] [DEBUG]   -> [dolphin3:latest] passed (Insufficient funds: 400).
+[2026-11-11 03:16:40] [DEBUG]   -> [mistral-nemo:12b] passed (Insufficient funds: 300).
+[2026-11-11 03:16:40] [WARN] Croupier: NO BIDDER for [19.11.26]. Question remains unowned.
+[2026-11-11 03:16:40] [CROUPIER] --- CROUPIER PHASE COMPLETE ---
+[2026-11-11 03:16:40] [CROUPIER] CROUPIER: Balances persisted.
+[2026-11-11 03:16:55] [CROUPIER] --- CROUPIER PHASE: MANAGING 10-DAY MARKET (AUCTION + SELF-REFINEMENT) ---
+[2026-11-11 03:16:55] [INFO] ONBOARDING: Skipping [qwen2.5-coder:7b] (Removed).
+[2026-11-11 03:16:55] [INFO] ONBOARDING: Skipping [qwen2.5-coder:14b] (Removed).
+[2026-11-11 03:16:55] [CROUPIER] 
+=== AUCTION FOR QUESTION: [19.11.26] (Offset +8) ===
+[2026-11-11 03:16:55] [INFO] Text: System Idle. Awaiting Sovereign Input......
+[2026-11-11 03:16:55] [DEBUG]   -> [jaahas/gemma-2-9b-it-abliterated:latest] passed (Insufficient funds: 100).
+[2026-11-11 03:16:55] [DEBUG]   -> [llama3.2:3b] passed (Insufficient funds: 200).
+[2026-11-11 03:16:55] [DEBUG]   -> [phi4:latest] passed (Insufficient funds: 400).
+[2026-11-11 03:16:55] [DEBUG]   -> [dolphin3:latest] passed (Insufficient funds: 400).
+[2026-11-11 03:16:55] [DEBUG]   -> [mistral-nemo:12b] passed (Insufficient funds: 300).
+[2026-11-11 03:16:55] [WARN] Croupier: NO BIDDER for [19.11.26]. Question remains unowned.
+[2026-11-11 03:16:55] [CROUPIER] --- CROUPIER PHASE COMPLETE ---
+[2026-11-11 03:16:55] [CROUPIER] CROUPIER: Balances persisted.
+[2026-11-11 03:17:10] [CROUPIER] --- CROUPIER PHASE: MANAGING 10-DAY MARKET (AUCTION + SELF-REFINEMENT) ---
+[2026-11-11 03:17:10] [INFO] ONBOARDING: Skipping [qwen2.5-coder:7b] (Removed).
+[2026-11-11 03:17:10] [INFO] ONBOARDING: Skipping [qwen2.5-coder:14b] (Removed).
+[2026-11-11 03:17:10] [CROUPIER] 
+=== AUCTION FOR QUESTION: [19.11.26] (Offset +8) ===
+[2026-11-11 03:17:10] [INFO] Text: System Idle. Awaiting Sovereign Input......
+[2026-11-11 03:17:10] [DEBUG]   -> [jaahas/gemma-2-9b-it-abliterated:latest] passed (Insufficient funds: 100).
+[2026-11-11 03:17:10] [DEBUG]   -> [llama3.2:3b] passed (Insufficient funds: 200).
+[2026-11-11 03:17:10] [DEBUG]   -> [phi4:latest] passed (Insufficient funds: 400).
+[2026-11-11 03:17:10] [DEBUG]   -> [dolphin3:latest] passed (Insufficient funds: 400).
+[2026-11-11 03:17:10] [DEBUG]   -> [mistral-nemo:12b] passed (Insufficient funds: 300).
+[2026-11-11 03:17:10] [WARN] Croupier: NO BIDDER for [19.11.26]. Question remains unowned.
+[2026-11-11 03:17:10] [CROUPIER] --- CROUPIER PHASE COMPLETE ---
+[2026-11-11 03:17:10] [CROUPIER] CROUPIER: Balances persisted.
+[2026-11-11 03:17:25] [CROUPIER] --- CROUPIER PHASE: MANAGING 10-DAY MARKET (AUCTION + SELF-REFINEMENT) ---
+[2026-11-11 03:17:25] [INFO] ONBOARDING: Skipping [qwen2.5-coder:7b] (Removed).
+[2026-11-11 03:17:25] [INFO] ONBOARDING: Skipping [qwen2.5-coder:14b] (Removed).
+[2026-11-11 03:17:25] [CROUPIER] 
+=== AUCTION FOR QUESTION: [19.11.26] (Offset +8) ===
+[2026-11-11 03:17:25] [INFO] Text: System Idle. Awaiting Sovereign Input......
+[2026-11-11 03:17:25] [DEBUG]   -> [jaahas/gemma-2-9b-it-abliterated:latest] passed (Insufficient funds: 100).
+[2026-11-11 03:17:25] [DEBUG]   -> [llama3.2:3b] passed (Insufficient funds: 200).
+[2026-11-11 03:17:25] [DEBUG]   -> [phi4:latest] passed (Insufficient funds: 400).
+[2026-11-11 03:17:25] [DEBUG]   -> [dolphin3:latest] passed (Insufficient funds: 400).
+[2026-11-11 03:17:25] [DEBUG]   -> [mistral-nemo:12b] passed (Insufficient funds: 300).
+[2026-11-11 03:17:25] [WARN] Croupier: NO BIDDER for [19.11.26]. Question remains unowned.
+[2026-11-11 03:17:25] [CROUPIER] --- CROUPIER PHASE COMPLETE ---
+[2026-11-11 03:17:25] [CROUPIER] CROUPIER: Balances persisted.
+[2026-11-11 03:17:40] [CROUPIER] --- CROUPIER PHASE: MANAGING 10-DAY MARKET (AUCTION + SELF-REFINEMENT) ---
+[2026-11-11 03:17:40] [INFO] ONBOARDING: Skipping [qwen2.5-coder:7b] (Removed).
+[2026-11-11 03:17:40] [INFO] ONBOARDING: Skipping [qwen2.5-coder:14b] (Removed).
+[2026-11-11 03:17:40] [CROUPIER] 
+=== AUCTION FOR QUESTION: [19.11.26] (Offset +8) ===
+[2026-11-11 03:17:40] [INFO] Text: System Idle. Awaiting Sovereign Input......
+[2026-11-11 03:17:40] [DEBUG]   -> [jaahas/gemma-2-9b-it-abliterated:latest] passed (Insufficient funds: 100).
+[2026-11-11 03:17:40] [DEBUG]   -> [llama3.2:3b] passed (Insufficient funds: 200).
+[2026-11-11 03:17:40] [DEBUG]   -> [phi4:latest] passed (Insufficient funds: 400).
+[2026-11-11 03:17:40] [DEBUG]   -> [dolphin3:latest] passed (Insufficient funds: 400).
+[2026-11-11 03:17:40] [DEBUG]   -> [mistral-nemo:12b] passed (Insufficient funds: 300).
+[2026-11-11 03:17:40] [WARN] Croupier: NO BIDDER for [19.11.26]. Question remains unowned.
+[2026-11-11 03:17:40] [CROUPIER] --- CROUPIER PHASE COMPLETE ---
+[2026-11-11 03:17:40] [CROUPIER] CROUPIER: Balances persisted.
+[2026-11-11 03:17:55] [CROUPIER] --- CROUPIER PHASE: MANAGING 10-DAY MARKET (AUCTION + SELF-REFINEMENT) ---
+[2026-11-11 03:17:55] [INFO] ONBOARDING: Skipping [qwen2.5-coder:7b] (Removed).
+[2026-11-11 03:17:55] [INFO] ONBOARDING: Skipping [qwen2.5-coder:14b] (Removed).
+[2026-11-11 03:17:55] [CROUPIER] 
+=== AUCTION FOR QUESTION: [19.11.26] (Offset +8) ===
+[2026-11-11 03:17:55] [INFO] Text: System Idle. Awaiting Sovereign Input......
+[2026-11-11 03:17:55] [DEBUG]   -> [jaahas/gemma-2-9b-it-abliterated:latest] passed (Insufficient funds: 100).
+[2026-11-11 03:17:55] [DEBUG]   -> [llama3.2:3b] passed (Insufficient funds: 200).
+[2026-11-11 03:17:55] [DEBUG]   -> [phi4:latest] passed (Insufficient funds: 400).
+[2026-11-11 03:17:55] [DEBUG]   -> [dolphin3:latest] passed (Insufficient funds: 400).
+[2026-11-11 03:17:55] [DEBUG]   -> [mistral-nemo:12b] passed (Insufficient funds: 300).
+[2026-11-11 03:17:55] [WARN] Croupier: NO BIDDER for [19.11.26]. Question remains unowned.
+[2026-11-11 03:17:55] [CROUPIER] --- CROUPIER PHASE COMPLETE ---
+[2026-11-11 03:17:55] [CROUPIER] CROUPIER: Balances persisted.
+[2026-11-11 03:18:10] [CROUPIER] --- CROUPIER PHASE: MANAGING 10-DAY MARKET (AUCTION + SELF-REFINEMENT) ---
+[2026-11-11 03:18:10] [INFO] ONBOARDING: Skipping [qwen2.5-coder:7b] (Removed).
+[2026-11-11 03:18:10] [INFO] ONBOARDING: Skipping [qwen2.5-coder:14b] (Removed).
+[2026-11-11 03:18:10] [CROUPIER] 
+=== AUCTION FOR QUESTION: [19.11.26] (Offset +8) ===
+[2026-11-11 03:18:10] [INFO] Text: System Idle. Awaiting Sovereign Input......
+[2026-11-11 03:18:10] [DEBUG]   -> [jaahas/gemma-2-9b-it-abliterated:latest] passed (Insufficient funds: 100).
+[2026-11-11 03:18:10] [DEBUG]   -> [llama3.2:3b] passed (Insufficient funds: 200).
+[2026-11-11 03:18:10] [DEBUG]   -> [phi4:latest] passed (Insufficient funds: 400).
+[2026-11-11 03:18:10] [DEBUG]   -> [dolphin3:latest] passed (Insufficient funds: 400).
+[2026-11-11 03:18:10] [DEBUG]   -> [mistral-nemo:12b] passed (Insufficient funds: 300).
+[2026-11-11 03:18:10] [WARN] Croupier: NO BIDDER for [19.11.26]. Question remains unowned.
+[2026-11-11 03:18:10] [CROUPIER] --- CROUPIER PHASE COMPLETE ---
+[2026-11-11 03:18:10] [CROUPIER] CROUPIER: Balances persisted.
